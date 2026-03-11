@@ -24,7 +24,7 @@ A **Lansutech** é uma software house focada na arquitetura de sistemas robustos
 ---
 
 ### 🛠️ Ecossistema Tecnológico
-<img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,postgres,fastapi,py,docker" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,tailwind,postgres,fastapi,py,docker,angular" />
 
 ---
 
