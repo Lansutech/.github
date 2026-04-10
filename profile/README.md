@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://lansutech.com.br/imgs/lansutech-logo.webp" width="150px" />
+<img src="https://lansutech.com.br/imgs/lansutechlogotitulo-white.svg" width="150px" />
 
 <br />
 
