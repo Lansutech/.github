@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EAF3F3&height=200&section=header&text=Lansutech&fontSize=65&fontColor=0D1117&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=EAF3F3&height=200&section=header&text=Lansutech&fontSize=65&fontColor=black&reversal=true" width="100%" />
 
 <br />
 
-<img src="https://lansutech.com.br/imgs/lansutechlogotitulo-white.svg" width="150px" />
+<img src="https://lansutech.com.br/imgs/logolansutech-white.svg" width="150px" />
 
 <br />
 
